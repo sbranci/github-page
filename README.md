@@ -1,9 +1,10 @@
 ## Bakalárska práca
 
-Téma práce: Sémantická reprezentácia informácií o bezpečnostných hrozbách
-Vedúci: RNDr. Martin Homola, PhD.
-Katedra: FMFI.KAI - Katedra aplikovanej informatiky
-Vedúci katedry: prof. Ing. Igor Farkaš, Dr.
+**Téma práce:** Sémantická reprezentácia informácií o bezpečnostných hrozbách
+**Študent:** Branislav Šipula
+**Vedúci:** RNDr. Martin Homola, PhD.
+**Katedra:** FMFI.KAI - Katedra aplikovanej informatiky
+**Vedúci katedry:** prof. Ing. Igor Farkaš, Dr.
 
 ### Anotácia
 

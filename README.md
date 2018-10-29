@@ -15,12 +15,12 @@ do sémantického formátu.
 
 ### Štruktúra práce
 
-## Cast 1. Východiská:
+#### Cast 1. Východiská:
 
 - Zdroje údajov o bezpečnostných hrozbách
 - Známe ontológie v oblasti
 
-## Cast 2. Vlastny prínos:
+#### Cast 2. Vlastny prínos:
 
 - Analýza domény
 - Návrh ontológie

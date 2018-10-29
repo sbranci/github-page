@@ -16,13 +16,15 @@ do sémantického formátu.
 ### Štruktúra práce
 
 #### Cast 1. Východiská:
-
+    ```shell
     - Zdroje údajov o bezpečnostných hrozbách
     - Známe ontológie v oblasti
+    ```
 
 #### Cast 2. Vlastny prínos:
-
+    ```shell
     - Analýza domény
     - Návrh ontológie
     - Implementácia extrakcie dát (otvorené)
+    ```
 

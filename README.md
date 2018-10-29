@@ -17,12 +17,12 @@ do sémantického formátu.
 
 #### Cast 1. Východiská:
 
-- Zdroje údajov o bezpečnostných hrozbách
-- Známe ontológie v oblasti
+    - Zdroje údajov o bezpečnostných hrozbách
+    - Známe ontológie v oblasti
 
 #### Cast 2. Vlastny prínos:
 
-- Analýza domény
-- Návrh ontológie
-- Implementácia extrakcie dát (otvorené)
+    - Analýza domény
+    - Návrh ontológie
+    - Implementácia extrakcie dát (otvorené)
 

@@ -18,13 +18,13 @@ informačných systémov pre potreby publikácie v sieti prepojených dát. Ďal
 cieľom bude aj tvorba nástroja na extrakciu údajov zo zdrojových dokumentov
 do sémantického formátu.
 
-### Štruktúra práce
+### Štruktúra/Harmonogram práce
 
 #### Cast 1. Východiská:    
-    - Zdroje údajov o bezpečnostných hrozbách
-    - Známe ontológie v oblasti
+    - Zdroje údajov o bezpečnostných hrozbách   (do 27.11.2018)
+    - Známe ontológie v oblasti                 (do 27.11.2018)
 
 #### Cast 2. Vlastny prínos:
-    - Analýza domény
-    - Návrh ontológie
-    - Implementácia extrakcie dát (otvorené)
+    - Analýza domény                            (november-decembra)
+    - Návrh ontológie                           (december-januar)
+    - Implementácia extrakcie dát (otvorené)    (januar-marec)

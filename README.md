@@ -32,7 +32,6 @@ do sémantického formátu.
 ### Zoznam zdrojov
 
 Mavroeidis, V., & Bromander, S. (2017, September). Cyber Threat Intelligence Model: An Evaluation of Taxonomies, Sharing Standards, and Ontologies within Cyber Threat Intelligence. In Intelligence and Security Informatics Conference (EISIC), 2017 European (pp. 91-98). IEEE.
-
 https://ieeexplore.ieee.org/abstract/document/8240774/                 
 -zakladna praca kde je zadefinovany novy model, a prehlad existujucich ontologii pre bezpecnost....
 

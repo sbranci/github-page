@@ -32,7 +32,7 @@ do sémantického formátu.
 ### Zoznam zdrojov
 
 Mavroeidis, V., & Bromander, S. (2017, September). Cyber Threat Intelligence Model: An Evaluation of Taxonomies, Sharing Standards, and Ontologies within Cyber Threat Intelligence. In Intelligence and Security Informatics Conference (EISIC), 2017 European (pp. 91-98). IEEE.
-https://ieeexplore.ieee.org/abstract/document/8240774/                 
+<a href="https://ieeexplore.ieee.org/abstract/document/8240774/" class="active">https://ieeexplore.ieee.org/abstract/document/8240774/</a>               
 -zakladna praca kde je zadefinovany novy model, a prehlad existujucich ontologii pre bezpecnost....
 
 Mavroeidis, V., & Jøsang, A. (2018). Data-Driven Threat Hunting Using Sysmon. 
@@ -44,3 +44,4 @@ https://link.springer.com/chapter/10.1007/978-3-319-11391-3_9
 -praca kde su popisane problemy s prevodom XML schemy do ontologie a ich postup ktory zvolili
 
 Ing. Peter VaŠ, Detekcia správania programov, (Diplomová práca, 2017, STU FEI, Evidenčné číslo: FEI-5384-8906)
+https://github.com/sbranci/github-page/blob/master/zaverecna_prace.pdf

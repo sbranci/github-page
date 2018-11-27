@@ -33,11 +33,11 @@ do sémantického formátu.
 
 Mavroeidis, V., & Bromander, S. (2017, September). Cyber Threat Intelligence Model: An Evaluation of Taxonomies, Sharing Standards, and Ontologies within Cyber Threat Intelligence. In Intelligence and Security Informatics Conference (EISIC), 2017 European (pp. 91-98). IEEE.
 [https://ieeexplore.ieee.org/abstract/document/8240774](https://ieeexplore.ieee.org/abstract/document/8240774)            
--zakladna praca kde je zadefinovany novy model, a prehlad existujucich ontologii pre bezpecnost....
+-zakladna praca kde je zadefinovany novy model, a prehlad existujucich ontologii pre bezpecnost
 
 Mavroeidis, V., & Jøsang, A. (2018). Data-Driven Threat Hunting Using Sysmon. 
 [http://folk.uio.no/josang/papers/MJ2018-ICCSP.pdf](http://folk.uio.no/josang/papers/MJ2018-ICCSP.pdf)                                           
--praca kde su naznacene vztahy medzi databazamy a modelom, praca ktoru som vytlacil aj studentovi
+-praca kde su naznacene vztahy medzi databazamy a modelom
 
 Ulicny, B. E., Moskal, J. J., Kokar, M. M., Abe, K., & Smith, J. K. (2014). Inference and ontologies. In Cyber Defense and Situational Awareness (pp. 167-199). Springer, Cham. 
 [https://link.springer.com/chapter/10.1007/978-3-319-11391-3_9](https://link.springer.com/chapter/10.1007/978-3-319-11391-3_9)                                 
